@@ -1,0 +1,44 @@
+/**{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wbnav .container-fluid{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 5rem;
+    background-color:#861f41;
+    margin-top: -0.6rem;
+}
+.wbnav .container-fluid .navbar-brand{
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin-left: 2rem;
+}
+.wbnav .container-fluid .collapse  .nav-item .nav-link{
+    color: white;
+    margin-left: 2rem;
+    display: inline;
+    text-decoration: none;
+    position: inherit;
+  
+}*/
+
+
+
+
+.wbnav .navbar{
+    background-color: #861f41;
+}
+.wbnav .navbar .container-fluid .navbar-brand{
+    font-size: 2.5rem;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+.wbnav .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link{
+    color: #fff;
+}

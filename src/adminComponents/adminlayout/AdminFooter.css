@@ -1,0 +1,8 @@
+.adminfoot .navbar .container-fluid{
+    background-color: #861f41;
+}
+.adminfoot .navbar .container-fluid .navbar-brand{
+    font-size: 2.5rem;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}

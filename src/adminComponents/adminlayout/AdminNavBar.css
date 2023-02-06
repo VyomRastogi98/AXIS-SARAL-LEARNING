@@ -1,0 +1,17 @@
+.topnav .navbar{
+    background-color: #861f41;
+}
+.topnav .navbar .container-fluid .navbar-brand{
+    font-size: 2.5rem;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+.topnav .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link{
+    color: #fff;
+}
+.bottomnav .navbar{
+    height: 3rem;
+}
+.bottomnav .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link{
+    color: #861f41;
+}

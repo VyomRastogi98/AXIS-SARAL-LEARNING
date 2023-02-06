@@ -1,0 +1,85 @@
+.pro .carousel{
+  margin-top: 2rem;
+  width: 40rem;
+}
+.pro .carousel-item .d-block{
+    height: 20rem;
+}
+.pro .carousel-inner{
+    width: 40rem;
+}
+.pro .carousel-indicators{
+  margin-left: 8rem;
+}
+.pro .carousel-item .carousel-caption { 
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.6);
+    width: 50rem;
+    height: 5rem;
+    margin-left: -10rem;
+    
+}
+.pro .carousel-control-prev{
+  margin-left: 0rem;
+}
+.pro .carousel-control-next{
+margin-right: 0rem;
+}
+.products .card{
+    width: 30rem;
+    border-color: #AE275F;
+    margin-left: 22rem;
+    
+}
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    width: 70%;
+    height: 30%;
+    overflow: hidden;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+  }
+  
+  .image img {
+    width: 100%;
+    object-fit: cover;
+  }
+  .pro .card-header{
+    background-color: #AE275F;
+  }
+  .prodheading{
+    color: #AE275F;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 4rem;
+  }
+  .btn1{
+    background-color: #AE275F;
+    color: white;
+    height: 2rem;
+    width: 10rem;
+    border-radius: 0.5rem;
+    
+  }
+.pro .col-5 .sidead .card{
+    margin-left: 20rem;
+    margin-top: 2rem;
+    width: 25rem;
+  }
+.pro .col-3{
+  
+}
+.sidead .card .card-body{
+  background-image: none;
+  color: black;
+  height: 20rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+.sidead .card .card-body .card-title{
+  color: #AE275F;
+  font-size: 2rem;
+}
