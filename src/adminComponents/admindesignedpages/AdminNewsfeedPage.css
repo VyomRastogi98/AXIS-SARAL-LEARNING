@@ -1,0 +1,34 @@
+.adminnewscard .card{
+    width: 72rem;
+    height: 14rem;
+    background: linear-gradient(#141e30, #552424);
+    color: #fff;
+    }
+    .adminnewscard .card .col-md-8 .card-body{
+        
+        
+    }
+    .adminnewscard .card .col-md-8 .card-body .card-title{
+        font-size: 1.5rem;
+    }
+    .adminnewscard .card .col-md-8 .card-body .comment{
+        color: #f38fb9;
+    }
+    .adminnewsheading{
+        color: #AE275F;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .adminnewssearch{
+        
+        margin-right: 0rem;
+        margin-top: 1.5rem;
+       
+        
+    }
+    .commentdlt{
+        color: #f38fb9;
+    }
+    .newsdlt{
+        
+        color: #f38fb9;
+    }

@@ -1,0 +1,11 @@
+.admindash .headdash{
+    font-family: 'Pacifico';
+    color: #b13860;
+    margin-top: 5rem;
+}
+.admindash .carousel-control-next{
+    margin-right: 1rem;
+}
+.admindash .carousel-control-prev{
+    margin-left: 1rem;
+}

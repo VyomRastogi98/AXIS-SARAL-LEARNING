@@ -1,0 +1,57 @@
+.emplist .card{
+    margin-top: 2%;
+}
+.empsearch .search{
+    width: 40rem;
+    height: 2rem;
+    
+}
+/*
+.emplist .col-sm-6 .card-title{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.emplist .col-sm-6 .card-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    width: 50rem;
+}
+.emplist .col-sm-6 .card-des{
+    font-family: 'Times New Roman', Times, serif;
+    color: #AE275F;
+}
+.emplist .card{
+    height: 10.5rem;
+    border-color: #AE275F;
+    border-radius: 1rem;
+}
+
+*/
+.emplst{
+    width: 15rem;
+}
+.emplst .card{
+    border-bottom-color: #AE275F;
+    border-right-color: #918187;
+    border-bottom-width: 0.5rem;
+}
+.emplst .card-title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    margin-top: -0.5rem;
+}
+.emplst .card-des{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    margin-top: -0.5rem;
+}
+.emplst .card-body .icon{
+    width: 1rem;
+}
+.emplst .card-body .card-text{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0.5rem;
+}
+.emplst .card-header{
+    background-color: #AE275F;
+}
